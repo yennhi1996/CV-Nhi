@@ -501,14 +501,14 @@ h1, h2, h3, h4, h5, h6 {
       width: 30%; } }
   @keyframes progress-bootstrap {
     to {
-      width: 70%; } }
+      width: 60%; } }
   @keyframes progress-ux {
     to {
       width: 50%; } }
  
   @keyframes progress-angular {
     to {
-      width: 60%; } }
+      width: 40%; } }
   @keyframes progress-git {
     to {
       width: 50%; } }
